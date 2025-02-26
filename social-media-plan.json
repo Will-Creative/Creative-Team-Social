@@ -1,0 +1,64 @@
+{
+  "socialMediaPlan": [
+    {
+      "date": "2025-03-02",
+      "posts": [
+        {
+          "type": "Image Post",
+          "description": "Create a visually appealing graphic that highlights the theme of the week.",
+          "caption": "Join us this week as we explore [Theme]!"
+        },
+        {
+          "type": "Story Post",
+          "description": "Share behind-the-scenes clips from last week's event to engage the audience.",
+          "caption": "Take a look at what happened last week! #BehindTheScenes"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-09",
+      "posts": [
+        {
+          "type": "Video Post",
+          "description": "Record a short video with highlights from the service.",
+          "caption": "Watch the best moments from last week's service! 🎥"
+        },
+        {
+          "type": "Testimonial Post",
+          "description": "Share a testimonial from a member about their experience.",
+          "caption": "Hear what our community is saying! #Testimonial"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-16",
+      "posts": [
+        {
+          "type": "Event Reminder",
+          "description": "Post a reminder graphic for the upcoming event.",
+          "caption": "Don’t forget to join us for [Event] this week! 🎉"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-23",
+      "posts": [
+        {
+          "type": "Engagement Post",
+          "description": "Create a post asking the audience a fun question related to the sermon.",
+          "caption": "What was your favorite moment from this week’s service? Let us know in the comments!"
+        }
+      ]
+    },
+    {
+      "date": "2025-03-30",
+      "posts": [
+        {
+          "type": "Prayer Request",
+          "description": "Invite the community to share their prayer requests in the comments.",
+          "caption": "We are here to pray for you! Share your requests below. 🙏"
+        }
+      ]
+    }
+  ]
+}
